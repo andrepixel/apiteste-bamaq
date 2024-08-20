@@ -1,0 +1,3 @@
+Problem 1
+    - laravel/pint[v1.0.0, ..., v.17.2] require ext-xml * -> it is missing from your system. Install or enable PHP's xml extension.
+    - Root composer.json requires laravel/pint ^1.0 -> satisfiable by laravel/pint[v1.0.0, ..., v1.17.2].1
